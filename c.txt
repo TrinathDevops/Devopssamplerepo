@@ -1,5 +1,7 @@
 heloo my name is trinath
-hi i am added in local server by my self
-
-:wq!
+hi i am added in local server by my self:wq!
 dacdacadfadfadfdadhi my name chaed to anothe line addwed
+=======
+hi my name chaed to anothe line addwed
+fsdfsdfsdfsdfsfsdfsdfsfd
+>>>>>>> 10636bcb987a2bc0388169769fff7aa38836dbb2
